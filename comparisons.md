@@ -19,6 +19,6 @@
 ![day 6](fig/day6.png)
 
 
-<center>
+<p align="center">
   [Back to main page](https://bjnnowak.github.io/30DayChartChallenge/)
-</center>
+</p>
