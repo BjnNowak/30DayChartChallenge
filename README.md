@@ -1,7 +1,7 @@
 # 30 Day Chart Challenge 2023
 
 The Challenge is divided in five main categories:
-[Comparisons](https://github.com/BjnNowak/30DayChartChallenge/blob/main/comparisons)
+[Comparisons](comparisons.md)
 
 ## Comparisons
 
