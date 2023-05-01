@@ -17,3 +17,6 @@
 
 **Day 18** Data day: Eurostat ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Eurostats.R))
 ![day 18](fig/day18.png)
+
+
+<center><a href="https://bjnnowak.github.io/30DayChartChallenge/distributions.html">Previous</a> - <a href="https://bjnnowak.github.io/30DayChartChallenge/">Back to main page</a> - <a href="https://bjnnowak.github.io/30DayChartChallenge/time_series.html">Next</a></center>
