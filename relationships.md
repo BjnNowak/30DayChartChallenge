@@ -13,4 +13,7 @@
 ![day 16](fig/day16.png)
 
 **Day 17** Networks (link to [full paper](https://www.sciencedirect.com/science/article/abs/pii/S0308521X22000385))
-![day 17](fig/day17.png)
+![day 17](fig/day17.jpg)
+
+**Day 18** Data day: Eurostat ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Eurostats.R))
+![day 18](fig/day18.png)
