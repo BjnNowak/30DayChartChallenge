@@ -13,3 +13,7 @@ The Challenge is divided in five main categories:
 
 **Day 3** Fauna/Flora ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Arableland.R))
 ![day 3](fig/day3.png)
+
+**Day 4** Historical ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Haber.R))
+![day 4](fig/day4.png)
+
