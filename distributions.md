@@ -17,3 +17,6 @@
 
 **Day 12** Theme day: BBC News ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_BBC.R))
 ![day 12](fig/day12.png)
+
+
+<center><a href="https://bjnnowak.github.io/30DayChartChallenge/comparisons.html">Previous</a> - <a href="https://bjnnowak.github.io/30DayChartChallenge/">Back to main page</a> - <a href="https://bjnnowak.github.io/30DayChartChallenge/relationships.html">Next</a></center>
