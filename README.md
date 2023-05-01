@@ -5,4 +5,4 @@ The Challenge is divided in **five main categories**:
 - [Distributions](distributions.md)
 - [Relationships](relationships.md)
 
-Website created by [Benjamin Nowak](https://twitter.com/BjnNowak)
+<center> Website created by [Benjamin Nowak](https://twitter.com/BjnNowak) </center>
