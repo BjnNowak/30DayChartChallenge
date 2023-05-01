@@ -17,3 +17,6 @@
 
 **Day 24** Theme day: UN Women ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_UNWomen.R))
 ![day 24](fig/day24.png)
+
+
+<center><a href="https://bjnnowak.github.io/30DayChartChallenge/relationships.html">Previous</a> - <a href="https://bjnnowak.github.io/30DayChartChallenge/">Back to main page</a> - <a href="https://bjnnowak.github.io/30DayChartChallenge/uncertainties.html">Next</a></center>
