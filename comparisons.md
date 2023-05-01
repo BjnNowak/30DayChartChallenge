@@ -9,4 +9,14 @@
 **Day 3** Fauna/Flora ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Arableland.R))
 ![day 3](fig/day3.png)
 
+**Day 4** Historical ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Haber.R))
+![day 4](fig/day4.png)
+
+**Day 5** Slope ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_farm_size.R))
+![day 5](fig/day5.png)
+
+**Day 6** Data Day: Our World in Data ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_irrigation.R))
+![day 6](fig/day6.png)
+
+
 [Back to main page](https://bjnnowak.github.io/30DayChartChallenge/)
