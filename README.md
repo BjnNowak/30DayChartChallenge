@@ -4,5 +4,6 @@ The Challenge is divided in **five main categories**:
 - [Comparisons](comparisons.md)
 - [Distributions](distributions.md)
 - [Relationships](relationships.md)
+- [Time series](time_series.md)
 
 <center>Website created by <a href="https://twitter.com/BjnNowak">Benjamin Nowak</a></center>
