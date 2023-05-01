@@ -3,4 +3,5 @@
 The Challenge is divided in five main categories:
 - [Comparisons](comparisons.md)
 - [Distributions](distributions.md)
+- [Relationships](relationships.md)
 
