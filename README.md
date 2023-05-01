@@ -17,3 +17,8 @@ The Challenge is divided in five main categories:
 **Day 4** Historical ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Haber.R))
 ![day 4](fig/day4.png)
 
+**Day 5** Slope ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_farm_size.R))
+![day 5](fig/day5.png)
+
+**Day 6** Data Day: Our World in Data ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_irrigation.R))
+![day 6](fig/day6.png)
