@@ -1,5 +1,8 @@
 # 30 Day Chart Challenge 2023
 
+The Challenge is divided in five main categories:
+[Comparisons](https://github.com/BjnNowak/30DayChartChallenge/blob/main/comparisons)
+
 ## Comparisons
 
 **Day 1** Part-to-whole ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Microbiome.R))
