@@ -17,3 +17,6 @@
 
 **Day 30** Trend ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Production.R))
 ![day 30](fig/day30.png)
+
+
+<center><a href="https://bjnnowak.github.io/30DayChartChallenge/time_series.html">Previous</a> - <a href="https://bjnnowak.github.io/30DayChartChallenge/">Back to main page</a></center>
