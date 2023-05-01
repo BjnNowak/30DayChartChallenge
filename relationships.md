@@ -8,3 +8,9 @@
 
 **Day 15** Positive/Negative ([code](https://github.com/BjnNowak/TidyTuesday/blob/main/SC_TimeZone.R))
 ![day 15](fig/day15.png)
+
+**Day 16** Family 
+![day 16](fig/day16.png)
+
+**Day 17** Networks (link to [full paper](https://www.sciencedirect.com/science/article/abs/pii/S0308521X22000385))
+![day 17](fig/day17.png)
